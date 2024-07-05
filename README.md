@@ -1,1 +1,1 @@
-This is a Java Full Stack COurse Practise folder.
+This is a Java Full Stack Course Practise folder.
